@@ -32,7 +32,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		722AF2A2248326CA00BD868B /* Swiftris2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swiftris2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		722AF2A2248326CA00BD868B /* TetrisClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TetrisClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		722AF2A5248326CA00BD868B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		722AF2AB248326CA00BD868B /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		722AF2AD248326CA00BD868B /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
@@ -81,7 +81,7 @@
 		722AF2A3248326CA00BD868B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				722AF2A2248326CA00BD868B /* Swiftris2.app */,
+				722AF2A2248326CA00BD868B /* TetrisClone.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -126,9 +126,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		722AF2A1248326CA00BD868B /* Swiftris2 */ = {
+		722AF2A1248326CA00BD868B /* TetrisClone */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 722AF2BA248326CC00BD868B /* Build configuration list for PBXNativeTarget "Swiftris2" */;
+			buildConfigurationList = 722AF2BA248326CC00BD868B /* Build configuration list for PBXNativeTarget "TetrisClone" */;
 			buildPhases = (
 				722AF29E248326CA00BD868B /* Sources */,
 				722AF29F248326CA00BD868B /* Frameworks */,
@@ -138,9 +138,9 @@
 			);
 			dependencies = (
 			);
-			name = Swiftris2;
+			name = TetrisClone;
 			productName = Swiftris2;
-			productReference = 722AF2A2248326CA00BD868B /* Swiftris2.app */;
+			productReference = 722AF2A2248326CA00BD868B /* TetrisClone.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -158,7 +158,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 722AF29D248326CA00BD868B /* Build configuration list for PBXProject "Swiftris2" */;
+			buildConfigurationList = 722AF29D248326CA00BD868B /* Build configuration list for PBXProject "TetrisClone" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -171,7 +171,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				722AF2A1248326CA00BD868B /* Swiftris2 */,
+				722AF2A1248326CA00BD868B /* TetrisClone */,
 			);
 		};
 /* End PBXProject section */
@@ -383,7 +383,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		722AF29D248326CA00BD868B /* Build configuration list for PBXProject "Swiftris2" */ = {
+		722AF29D248326CA00BD868B /* Build configuration list for PBXProject "TetrisClone" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				722AF2B8248326CC00BD868B /* Debug */,
@@ -392,7 +392,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		722AF2BA248326CC00BD868B /* Build configuration list for PBXNativeTarget "Swiftris2" */ = {
+		722AF2BA248326CC00BD868B /* Build configuration list for PBXNativeTarget "TetrisClone" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				722AF2BB248326CC00BD868B /* Debug */,
