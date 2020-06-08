@@ -72,7 +72,7 @@
 		722AF299248326CA00BD868B = {
 			isa = PBXGroup;
 			children = (
-				722AF2A4248326CA00BD868B /* Swiftris2 */,
+				722AF2A4248326CA00BD868B /* TetrisClone */,
 				722AF2A3248326CA00BD868B /* Products */,
 				722AF2BF248328C400BD868B /* Sounds */,
 			);
@@ -86,7 +86,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		722AF2A4248326CA00BD868B /* Swiftris2 */ = {
+		722AF2A4248326CA00BD868B /* TetrisClone */ = {
 			isa = PBXGroup;
 			children = (
 				722AF2A5248326CA00BD868B /* AppDelegate.swift */,
@@ -107,7 +107,7 @@
 				722AF2B2248326CC00BD868B /* Assets.xcassets */,
 				722AF2B7248326CC00BD868B /* Info.plist */,
 			);
-			path = Swiftris2;
+			path = TetrisClone;
 			sourceTree = "<group>";
 		};
 		722AF2BF248328C400BD868B /* Sounds */ = {
