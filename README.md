@@ -1,3 +1,3 @@
 # Swiftris2
 Tetris Clone
-For learning Spritekit
+Educational purposes, learning Spritekit
